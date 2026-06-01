@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Dockkkkkkkkk.github.io/snippets-jfsx5n/sitemap.xml
